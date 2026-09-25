@@ -1,4 +1,4 @@
-# Octopus-API
+# Octopus IntelligentGO-API
 API Secilla para conexión y control de Intelligent GO
 
 Permite suspender o reanudar Intelligent Octopus Go, y forzar una carga inmediata, por API — sin depender de la app. Pensado para integrarlo con Home Assistant, Loxone, Node-RED o cualquier automatización propia.
